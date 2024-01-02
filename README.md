@@ -1,3 +1,3 @@
 # DEMO
 
-Sample repository
+Sample repository.
