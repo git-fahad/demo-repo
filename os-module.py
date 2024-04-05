@@ -26,3 +26,5 @@ print("\n")
 
 v = os.environ.get("PATH")
 print(os.getlogin())
+
+print("\n")
